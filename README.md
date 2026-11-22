@@ -61,3 +61,6 @@ Rubab Arif
 ---
 
 This project was developed as part of my Data Analytics portfolio.
+## Power BI Dashboard Preview
+
+![HR Employee Attrition Dashboard](HR-EMPLOYEE-ATTRITION-ANALYSIS.png)
